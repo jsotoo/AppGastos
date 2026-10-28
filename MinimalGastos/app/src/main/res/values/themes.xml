@@ -1,0 +1,4 @@
+<resources>
+    <!-- Solo define el fondo de la ventana; la UI la dibuja Compose. DayNight = modo oscuro automático. -->
+    <style name="Theme.Gastos" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>
